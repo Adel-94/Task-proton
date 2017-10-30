@@ -1,0 +1,200 @@
+body {
+	margin: 0 auto;
+}
+.margin90 {
+
+	margin-bottom: 90px!important;
+}
+.bg { 
+	background: #3d4153;
+	color: white;
+}
+.mytable {
+	margin-left: 4px;
+}
+.advertisements {
+	margin-top: 20px;
+}
+.advertisements a:hover {
+  text-decoration: none;
+}
+.advert_img {
+ background-image: url("/upload/1508331954.png");
+}
+
+.advert_infor ul {
+	list-style-type: none;
+}
+.myadverts {
+	margin-top: 20px;
+}
+
+.advert_infor ul img {
+	width: 80%;
+	height: 115px;
+}
+
+.mygallery li {
+	margin:18px;
+   list-style-type: none;
+   display: inline-block;
+}
+.mygallery li img {
+	width: 70px;
+	height: 70px;
+}
+.show {
+	margin-top: 10px;
+}
+.information {
+	color: #3d4153;
+	font-weight: bold;
+}
+
+.prop_type_name{
+	color: #3d4153;
+	font-weight: bold;
+}
+.bgred  {
+	background: #3d4153;
+	color: white;
+	padding: 5px;
+}
+.properties {
+	 margin-left: -39px;
+    font-size: 18px;
+    color: #C71B25;
+}
+
+.properties  li {
+	margin-right: 20px;
+   display: inline-block;
+}
+.about {
+   padding-bottom: 15px;
+   border-bottom: 1px dashed red;
+}
+.leftimg h4 {
+	color: #3d4153;
+	font-weight: 600;
+}
+.address {
+	margin-left: -39px;
+	 font-size: 14px;
+}
+
+.address li{
+	 display: inline-block;
+	 list-style-type: none;
+	 margin-right: 28px;
+	 color: white;
+	 background: #C71B25;
+	 border-radius: 15px;
+	 padding: 6px;
+}
+
+/*-----Welcome----*/
+.select_label {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 30px;
+    margin: 10px;
+}
+
+ .s_label_title {
+ 	position: relative;
+    float: left;
+    height: 100%;
+ 	border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+ 	color: #fff;
+    width: 150px;
+    background-color: #3d4153;
+    text-align: center;
+    padding: 7px 3px;
+    font-size: 14px;
+}
+.s_label_select {
+	height: 100%;
+	width: 200px;
+    padding: 5px;
+	border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #ced4ed;
+    color: #3d4153;
+}
+.adverts_infor ul li{
+   list-style-type: none;
+}
+.title {
+	margin-left: 15px;
+	margin-right: 31px;
+    border: 1px solid #1a9f29;
+    width: 154px;
+    text-align: left;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    background: #1a9f29;
+    color: white;
+    padding: 10px 15px;
+}
+.titles {
+	background: #3d4153;
+    color: white;
+    margin-left: 150px;
+    padding: 10px 15px;
+}
+.properties_infor ul li {
+	list-style-type: none;
+}
+.properties_author ul li {
+	list-style-type: none;
+}
+.submitform {
+	padding: 5px 15px;
+	color: white;
+	margin-left: -15px;
+	background: #3d4153;
+	margin-top: 15px;
+}
+.submitform:hover {
+	background-color: #1a9f29;
+	color: white;
+	transition: all 0.3s;
+}
+.advert_images {
+	position: relative;
+	left: 59px;
+	top: 15px;
+}
+.titleHome {
+    border: 1px solid #1a9f29;
+    width: 154px;
+    text-align: left;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background: #1a9f29;
+    color: white;
+    padding: 10px 15px;
+}
+.titlesss a:hover {
+   text-decoration: none;
+}
+.titlesss  li {
+  list-style-type: none;
+  display: inline-block;
+
+}
+.marginleft {
+	margin-left: 42px;
+}
+.districts {
+	display: none;
+}
+.stations {
+	display: none;
+}
+.subways {
+	display: none;
+}
